@@ -16,7 +16,7 @@ export default class App extends Component {
     todoData: [
       this.createTodoItem('Nick1'),
       this.createTodoItem('Nick2'),
-      this.createTodoItem('Nick3')
+      this.createTodoItem('Nick33')
     ],
     term: '',
     filter: 'all'
